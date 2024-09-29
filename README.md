@@ -1,6 +1,6 @@
 # testserver
 show info from system
-dmidecode -t $
+dmidecode -t $ 
 		Type   Information
 		----------------------------------------
           0		BIOS
